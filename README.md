@@ -11,3 +11,6 @@
 * `group1_adagrad_report.pdf`: Report thuyết trình bản PDF.
 * `group1_adagrad_slide.pdf`: Slide thuyết trình.
 * `**.jpg`: Hình ảnh cho notebook.
+
+## Đường link ngoài:
+[Video thuyết trình](https://drive.google.com/file/d/1BccTQyp4ssPXkflSOKbEybXf7tMmB2dQ/view?usp=drivesdk)
