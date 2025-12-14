@@ -12,5 +12,7 @@
 * `group1_adagrad_slide.pdf`: Slide thuyết trình.
 * `**.jpg`: Hình ảnh cho notebook.
 
-## Đường link ngoài:
-[Video thuyết trình](https://drive.google.com/file/d/1BccTQyp4ssPXkflSOKbEybXf7tMmB2dQ/view?usp=drivesdk)
+## Link Report, Slide và Presentation:
+* [Link Report Notebook](https://colab.research.google.com/drive/1KPJxrvUyiFG0pbuVDj1e1NGwxOQZIJzN#scrollTo=CDH6Ko2SalDe)
+* [Link Slide](https://www.canva.com/design/DAG7Bl9pd8M/ybOECwI1RqPfDMeXPq1L9g/edit)
+* [Link Presentation](https://drive.google.com/file/d/1BccTQyp4ssPXkflSOKbEybXf7tMmB2dQ/view?usp=drivesdk)
